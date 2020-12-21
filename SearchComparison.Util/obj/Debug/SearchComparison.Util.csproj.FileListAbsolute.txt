@@ -1,0 +1,6 @@
+D:\Users\juanm\Documents\GitHub\SearchComparison\SearchComparison.Util\bin\Debug\SearchComparison.Util.dll
+D:\Users\juanm\Documents\GitHub\SearchComparison\SearchComparison.Util\bin\Debug\SearchComparison.Util.pdb
+D:\Users\juanm\Documents\GitHub\SearchComparison\SearchComparison.Util\obj\Debug\SearchComparison.Util.csprojAssemblyReference.cache
+D:\Users\juanm\Documents\GitHub\SearchComparison\SearchComparison.Util\obj\Debug\SearchComparison.Util.csproj.CoreCompileInputs.cache
+D:\Users\juanm\Documents\GitHub\SearchComparison\SearchComparison.Util\obj\Debug\SearchComparison.Util.dll
+D:\Users\juanm\Documents\GitHub\SearchComparison\SearchComparison.Util\obj\Debug\SearchComparison.Util.pdb

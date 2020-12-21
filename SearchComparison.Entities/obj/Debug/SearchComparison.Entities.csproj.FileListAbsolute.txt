@@ -1,0 +1,5 @@
+D:\Users\juanm\Documents\GitHub\SearchComparison\SearchComparison.Entities\bin\Debug\SearchComparison.Entities.dll
+D:\Users\juanm\Documents\GitHub\SearchComparison\SearchComparison.Entities\bin\Debug\SearchComparison.Entities.pdb
+D:\Users\juanm\Documents\GitHub\SearchComparison\SearchComparison.Entities\obj\Debug\SearchComparison.Entities.csproj.CoreCompileInputs.cache
+D:\Users\juanm\Documents\GitHub\SearchComparison\SearchComparison.Entities\obj\Debug\SearchComparison.Entities.dll
+D:\Users\juanm\Documents\GitHub\SearchComparison\SearchComparison.Entities\obj\Debug\SearchComparison.Entities.pdb

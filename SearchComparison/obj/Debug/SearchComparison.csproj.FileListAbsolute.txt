@@ -1,0 +1,16 @@
+D:\Users\juanm\Documents\GitHub\SearchComparison\SearchComparison\bin\Debug\SearchComparison.exe.config
+D:\Users\juanm\Documents\GitHub\SearchComparison\SearchComparison\bin\Debug\SearchComparison.exe
+D:\Users\juanm\Documents\GitHub\SearchComparison\SearchComparison\bin\Debug\SearchComparison.pdb
+D:\Users\juanm\Documents\GitHub\SearchComparison\SearchComparison\bin\Debug\SearchComparison.BL.dll
+D:\Users\juanm\Documents\GitHub\SearchComparison\SearchComparison\bin\Debug\SearchComparison.Util.dll
+D:\Users\juanm\Documents\GitHub\SearchComparison\SearchComparison\bin\Debug\SearchComparison.Entities.dll
+D:\Users\juanm\Documents\GitHub\SearchComparison\SearchComparison\bin\Debug\SearchComparison.Services.dll
+D:\Users\juanm\Documents\GitHub\SearchComparison\SearchComparison\bin\Debug\SearchComparison.BL.pdb
+D:\Users\juanm\Documents\GitHub\SearchComparison\SearchComparison\bin\Debug\SearchComparison.Util.pdb
+D:\Users\juanm\Documents\GitHub\SearchComparison\SearchComparison\bin\Debug\SearchComparison.Entities.pdb
+D:\Users\juanm\Documents\GitHub\SearchComparison\SearchComparison\bin\Debug\SearchComparison.Services.pdb
+D:\Users\juanm\Documents\GitHub\SearchComparison\SearchComparison\obj\Debug\SearchComparison.csprojAssemblyReference.cache
+D:\Users\juanm\Documents\GitHub\SearchComparison\SearchComparison\obj\Debug\SearchComparison.csproj.CoreCompileInputs.cache
+D:\Users\juanm\Documents\GitHub\SearchComparison\SearchComparison\obj\Debug\SearchComparison.csproj.CopyComplete
+D:\Users\juanm\Documents\GitHub\SearchComparison\SearchComparison\obj\Debug\SearchComparison.exe
+D:\Users\juanm\Documents\GitHub\SearchComparison\SearchComparison\obj\Debug\SearchComparison.pdb
